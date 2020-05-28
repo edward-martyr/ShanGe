@@ -1,0 +1,22 @@
+% !TeX root = ./saeku.tex
+% !TEX program = lualatex
+
+\documentclass[tate]{jlreq}
+
+\usepackage[match]{luatexja-fontspec}
+\setmainjfont[ItalicFont={Fangsong}]{I.Ming} % Fangsong aka 華文仿宋, preinstalled on most machines. It's free but not for commercial use.
+\setmainfont{I.Ming} % https://github.com/edward-martyr/I.Ming also https://github.com/ichitenfont/I.Ming
+\setsansjfont{GlowSansTC-Compressed-Light} % https://github.com/welai/glow-sans
+
+\ModifyHeading{section}{font=\sffamily\Large}
+\ModifyHeading{subsection}{font=\sffamily,after_space=0.7em,before_space=1em}
+
+\usepackage{microtype}
+
+\usepackage[width=48em, height=67em, a4paper, landscape, twocolumn]{geometry}
+
+\begin{document}
+
+\input{text.tex}
+
+\end{document}

@@ -1,0 +1,1070 @@
+This is LuaHBTeX, Version 1.12.0 (TeX Live 2020)  (format=lualatex 2020.5.17)  28 MAY 2020 16:27
+ restricted system commands enabled.
+ file:line:error style messages enabled.
+**/Users/edwardchen/ShanGe/saeku
+(/Users/edwardchen/ShanGe/saeku.tex
+LaTeX2e <2020-02-02> patch level 5
+Lua module: luaotfload-main 2020-05-06 3.14 luaotfload entry point
+Lua module: luaotfload-init 2020-05-06 3.14 luaotfload submodule / initialization
+Lua module: lualibs 2020-05-01 2.71 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2020-05-01 2.71 ConTeXt Lua libraries -- extended collection.
+Lua module: luaotfload-log 2020-05-06 3.14 luaotfload submodule / logging
+Lua module: luaotfload-parsers 2020-05-06 3.14 luaotfload submodule / filelist
+Lua module: luaotfload-configuration 2020-05-06 3.14 luaotfload submodule / config file reader
+luaotfload | conf : Root cache directory is "/Users/edwardchen/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/names".
+luaotfload | init : Loading fontloader "fontloader-2020-05-06.lua" from kpse-resolved path "/usr/local/texlive/2020/texmf-dist/tex/luatex/luaotfload/fontloader-2020-05-06.lua".
+Lua-only attribute luaotfload@noligature = 1
+Lua-only attribute luaotfload@syllabe = 2
+luaotfload | init : Context OpenType loader version 0x1.8e353f7ced917p+1
+Lua module: luaotfload-fallback 2020-05-06 3.14 luaotfload submodule / fallback
+Lua module: luaotfload-multiscript 2020-05-06 3.14 luaotfload submodule / multiscript
+Lua module: luaotfload-script 2020-05-06 3.14 luaotfload submodule / Script helpers
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Lua module: luaotfload-loaders 2020-05-06 3.14 luaotfload submodule / callback handling
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua module: luaotfload-database 2020-05-06 3.14 luaotfload submodule / database
+Lua module: luaotfload-unicode 2020-05-06 3.14 luaotfload submodule / Unicode helpers
+Lua module: luaotfload-colors 2020-05-06 3.14 luaotfload submodule / color
+Lua-only attribute luaotfload_color_attribute = 3
+Lua module: luaotfload-resolvers 2020-05-06 3.14 luaotfload submodule / resolvers
+luaotfload | conf : Root cache directory is "/Users/edwardchen/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/names".
+Lua module: luaotfload-features 2020-05-06 3.14 luaotfload submodule / features
+Lua module: luaotfload-harf-define 2020-05-06 3.14 luaotfload submodule / database
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_opentype_file'.
+Inserting `luaotfload.harf.strip_prefix' at position 1 in `find_truetype_file'.
+Lua module: luaotfload-harf-plug 2020-05-06 3.14 luaotfload submodule / database
+Inserting `Harf pre_output_filter callback' at position 1 in `pre_output_filter'.
+Inserting `Harf wrapup_run callback' at position 1 in `wrapup_run'.
+Inserting `Harf finish_pdffile callback' at position 1 in `finish_pdffile'.
+Inserting `Harf glyph_info callback' at position 1 in `glyph_info'.
+Lua module: luaotfload-letterspace 2020-05-06 3.14 luaotfload submodule / color
+Lua module: luaotfload-embolden 2020-05-06 3.14 luaotfload submodule / color
+Lua module: luaotfload-notdef 2020-05-06 3.14 luaotfload submodule / color
+Lua module: luaotfload-suppress 2020-05-06 3.14 luaotfload submodule / suppress
+Lua module: luaotfload-szss 2020-05-06 3.14 luaotfload submodule / color
+Lua module: luaotfload-auxiliary 2020-05-06 3.14 luaotfload submodule / auxiliary functions
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
+Lua module: luaotfload-tounicode 2020-05-06 3.14 luaotfload submodule / tounicode
+Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'. L3 programming layer <2020-05-15> (/usr/local/texlive/2020/texmf-dist/tex/latex/jlreq/jlreq.cls
+Document Class: jlreq 2020/05/01 jlreq
+(/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count163
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/everyhook/everyhook.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/svn-prov/svn-prov.sty
+Package: svn-prov 2010/04/24 v3.1862 Package Date/Version from SVN Keywords
+)
+Package: everyhook 2014/11/26 v1.2 (SVN Rev: 12)\ Hooks for low level TeX everyX primitives.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count164
+)
+\everypar=\toks17
+\frozen@everymath=\toks18
+\frozen@everydisplay=\toks19
+\everyhbox=\toks20
+\everyvbox=\toks21
+\everycr=\toks22
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2020/02/03 v0.7 Hooks for input files
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/jlreq/jlreq-helpers.sty
+Package: jlreq-helpers 2018/08/15 jlreq-helpers
+\jlreq@tempcnta=\count165
+\jlreq@tempcntb=\count166
+\jlreq@tempcntc=\count167
+\jlreq@tempdima=\dimen134
+\jlreq@tempdimb=\dimen135
+\jlreq@tempdimc=\dimen136
+\jlreq@tempskipa=\skip47
+\jlreq@tempskipb=\skip48
+\jlreq@tempskipc=\skip49
+\jlreq@tempboxa=\box45
+\jlreq@tempboxb=\box46
+\jlreq@tempboxc=\box47
+\jlreq@resultdimen=\dimen137
+\jlreq@resultskip=\skip50
+\jlreq@resultbox=\box48
+\jlreq@resultcnt=\count168
+\jlreq@reference@count=\count169
+\jlreq@currentpage=\count170
+) jlreq guessed engine: lualatex (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/luatexja.sty
+Package: luatexja 2020-04-12 Japanese Typesetting with Lua(La)TeX
+ (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/luatexja-core.sty
+Package: luatexja-core 2017/11/12 Core of LuaTeX-ja
+ (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+ (/usr/local/texlive/2020/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count171
+)
+\CatcodeTableOther=\catcodetable5
+\CatcodeTableExpl=\catcodetable6
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks23
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\AtBeginShipoutBox=\box49
+\ltjlineendcomment=\count172
+\ltj@dimen@zw=\dimen138
+\ltj@dimen@zh=\dimen139
+\ltj@dimen@jQ=\dimen140
+\ltj@icflag=\attribute4
+\ltj@curjfnt=\attribute5
+\ltj@curtfnt=\attribute6
+\ltj@charclass=\attribute7
+\ltj@charcode=\attribute8
+\ltj@autospc=\attribute9
+\ltj@autoxspc=\attribute10
+\ltj@yablshift=\attribute11
+\ltj@ykblshift=\attribute12
+\ltj@tablshift=\attribute13
+\ltj@tkblshift=\attribute14
+\jfam=\attribute15
+\ltj@vert@ori=\attribute16
+\ltj@dir=\attribute17
+\ltj@@japanese=\language2
+\ltj@tempcnta=\count173
+\ltj@kcat0=\attribute18
+\ltj@kcat1=\attribute19
+\ltj@kcat2=\attribute20
+\ltj@kcat3=\attribute21
+\ltj@kcat4=\attribute22
+\ltj@kcat5=\attribute23
+\ltj@kcat6=\attribute24
+Custom whatsit inhibitglue = 1
+Custom whatsit stack_marker = 2
+Custom whatsit begin_par = 3
+Custom whatsit direction = 4
+Custom whatsit box_boundary = 5
+Custom whatsit ja_al_boundary = 6(load cache: /Users/edwardchen/Library/texlive/2020/texmf-var/luatexja/ltj-cid-auto-adobe-japan1.luc)
+Lua module: luatexja.charrange 2019/09/26 Handling the range of Japanese characters
+Lua module: luatexja.stack 2019/09/26 LuaTeX-ja stack system
+Inserting `ltj.create_dir_whatsit' at position 2 in `hpack_filter'.
+Inserting `ltj.create_dir_whatsit' at position 1 in `post_linebreak_filter'.
+Inserting `ltj.direction' at position 1 in `vpack_filter'.
+Inserting `ltj.direction' at position 2 in `pre_output_filter'.
+Inserting `ltj.lineskip' at position 2 in `post_linebreak_filter'.
+Inserting `ltj.lineskip' at position 1 in `append_to_vlist_filter'.
+Lua module: luatexja.jfont 2020-04-01 Loader for Japanese fonts
+Removing  `luaotfload.define_font' from `define_font'.
+Inserting `luatexja.font_callback' at position 1 in `define_font'.
+Removing  `luaotfload.aux.set_sscale_dimens' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.set_font_index' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.patch_cambria_domh' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.set_capheight' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.set_xheight' from `luaotfload.patch_font'.
+Removing  `luaotfload.rewrite_fontname' from `luaotfload.patch_font'.
+Inserting `ltj.prepare_extra_data' at position 1 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 2 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' at position 3 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 4 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_capheight' at position 5 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' at position 6 in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' at position 7 in `luaotfload.patch_font'.
+Inserting `ltj.prepare_extra_data' at position 1 in `luatexja.define_font'.
+Inserting `ltj.get_vert_form' at position 1 in `luatexja.define_jfont'.
+Removing  `ltj.prepare_extra_data' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.set_sscale_dimens' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.set_font_index' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.patch_cambria_domh' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.set_capheight' from `luaotfload.patch_font'.
+Removing  `luaotfload.aux.set_xheight' from `luaotfload.patch_font'.
+Removing  `luaotfload.rewrite_fontname' from `luaotfload.patch_font'.
+Inserting `ltj.supply_tounicode' at position 1 in `luaotfload.patch_font'.
+Inserting `ltj.prepare_extra_data' at position 2 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 3 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_font_index' at position 4 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 5 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_capheight' at position 6 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.set_xheight' at position 7 in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' at position 8 in `luaotfload.patch_font'.
+Inserting `ltj.process_input_buffer' at position 1 in `process_input_buffer'.
+Inserting `ltj.hyphenate' at position 1 in `hyphenate'.
+Removing  `luaotfload.node_processor' from `hpack_filter'.
+Removing  `ltj.create_dir_whatsit' from `hpack_filter'.
+Inserting `ltj.set_stack_level' at position 1 in `hpack_filter'.
+Inserting `luaotfload.node_processor' at position 2 in `hpack_filter'.
+Inserting `ltj.create_dir_whatsit' at position 3 in `hpack_filter'.
+Removing  `luaotfload.node_processor' from `pre_linebreak_filter'.
+Inserting `ltj.set_stack_level' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 2 in `pre_linebreak_filter'.
+Lua module: luatexja.jfmglue 2020/01/23 Insertion process of JFM glues, [x]kanjiskip and others
+Inserting `luatexja.beginpar.np_info' at position 1 in `luatexja.jfmglue.whatsit_getinfo'.
+Inserting `luatexja.beginpar.np_info_after' at position 1 in `luatexja.jfmglue.whatsit_after'.
+Inserting `ltj.mlist_to_hlist_pre' at position 1 in `pre_mlist_to_hlist_filter'.
+Inserting `ltj.main' at position 3 in `pre_linebreak_filter'.
+Removing  `ltj.create_dir_whatsit' from `hpack_filter'.
+Inserting `ltj.main' at position 3 in `hpack_filter'.
+Inserting `ltj.create_dir_whatsit' at position 4 in `hpack_filter'.
+Removing  `ltj.set_stack_level' from `pre_linebreak_filter'.
+Removing  `luaotfload.node_processor' from `pre_linebreak_filter'.
+Removing  `ltj.main' from `pre_linebreak_filter'.
+Inserting `ltj.adjust_icflag' at position 1 in `pre_linebreak_filter'.
+Inserting `ltj.set_stack_level' at position 2 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 3 in `pre_linebreak_filter'.
+Inserting `ltj.main' at position 4 in `pre_linebreak_filter'.
+Removing  `ltj.set_stack_level' from `hpack_filter'.
+Removing  `luaotfload.node_processor' from `hpack_filter'.
+Removing  `ltj.main' from `hpack_filter'.
+Removing  `ltj.create_dir_whatsit' from `hpack_filter'.
+Inserting `ltj.adjust_icflag' at position 1 in `hpack_filter'.
+Inserting `ltj.set_stack_level' at position 2 in `hpack_filter'.
+Inserting `luaotfload.node_processor' at position 3 in `hpack_filter'.
+Inserting `ltj.main' at position 4 in `hpack_filter'.
+Inserting `ltj.create_dir_whatsit' at position 5 in `hpack_filter'. (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/ltj-base.sty
+Package: ltj-base 2017/05/05
+\ltj@tempcntb=\count174
+\ltj@tempcntc=\count175
+\ltj@tempdima=\dimen141
+\ltj@afbox=\box50
+)
+\ltj@@italic@inner=\luafunction1
+\ltj@@start@time@measure@inner=\luafunction2
+\ltj@@stop@time@measure@inner=\luafunction3
+\ltj@@jfont@inner=\luafunction4
+\ltj@zw@inner=\luafunction5
+\ltj@zh@inner=\luafunction6
+\ltj@reset@globaldefs@inner=\luafunction7
+\ltj@restore@globaldefs@inner=\luafunction8
+\ltj@@ihb@inner=\luafunction9
+\ltj@@fakeparbegin@inner=\luafunction10
+\ltj@@fakeboxbdd@inner=\luafunction11
+\ltj@@stack=\count176
+\ltj@@group@level=\count177
+\ltjsetkanjiskip@inner=\luafunction12
+\ltjsetxkanjiskip@inner=\luafunction13
+\ltj@@getparam@one@inner=\luafunction14
+\ltj@alljachar@inner=\luafunction15
+\ltj@@lua@populate@insertwhatsit@inner=\luafunction16
+\ltj@@box@dirhook@inner=\luafunction17
+\ltj@@reset@badness@inner=\luafunction18
+\ltj@@lua@raisebox@inner=\luafunction19
+\ltj@@lua@unboxcheckdir@inner=\luafunction20
+ (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/ltj-latex.sty
+Package: ltj-latex 2019/09/26 LaTeX support of LuaTeX-ja
+ (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/patches/lltjfont.sty
+Package: lltjfont 2020-04-12 Patch to NFSS2 for LuaTeX-ja
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/tuenc.def
+File: tuenc.def 2020/02/11 v2.0o Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+)
+\Cht=\dimen142
+\cht=\dimen143
+\Cdp=\dimen144
+\cdp=\dimen145
+\Cwd=\dimen146
+\cwd=\dimen147
+\Cvs=\dimen148
+\cvs=\dimen149
+\Chs=\dimen150
+\chs=\dimen151
+\cHT=\dimen152
+\dstrutbox=\box51
+\tstrutbox=\box52
+\zstrutbox=\box53
+LaTeX Info: Redefining \strut on input line 67.
+\ltj@@add@fenc@@inner=\luafunction21
+\ltj@@add@kyenc@@inner=\luafunction22
+\ltj@@add@ktenc@@inner=\luafunction23
+\ltj@@is@kyenc@@inner=\luafunction24
+\ltj@@is@ktenc@@inner=\luafunction25
+\ltj@@is@kenc@@inner=\luafunction26
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+) ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 349.
+\ltj@@adjust@baseline@inner=\luafunction27
+LaTeX Info: Redefining \fontencoding on input line 536.
+LaTeX Info: Redefining \fontfamily on input line 579.
+\ltj@@latex@plv=\count178
+LaTeX Info: Redefining \fontseries on input line 727.
+LaTeX Info: Redefining \fontseriesforce on input line 731.
+LaTeX Info: Redefining \fontshape on input line 736.
+LaTeX Info: Redefining \fontshapeforce on input line 743.
+LaTeX Info: Redefining \normalfont on input line 787.
+) (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/patches/lltjdefs.sty
+Package: lltjdefs 2020/03/16 Default font settings of LuaTeX-ja
+luaotfload | db : Font names database loaded from /Users/edwardchen/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/names/luaotfload-names.luc
+LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 73.
+
+(/usr/local/texlive/2020/texmf-dist/tex/luatex/jlreq/jfm-jlreqv.lua)
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 73.
+
+(/usr/local/texlive/2020/texmf-dist/tex/luatex/jlreq/jfm-jlreq.lua)
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY3/mc/m/n --> JY3/gt/m/n on input line 83.
+) (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/patches/lltjcore.sty
+Package: lltjcore 2019/09/26 Patch to LaTeX2e Kernel for LuaTeX-ja
+\@tombowwidth=\dimen153
+\@TL=\box54
+\@Tl=\box55
+\@TC=\box56
+\@TR=\box57
+\@Tr=\box58
+\@BL=\box59
+\@Bl=\box60
+\@BC=\box61
+\@BR=\box62
+\@Br=\box63
+\@CL=\box64
+\@CR=\box65
+\@bannertoken=\toks24
+\@@paperheight=\dimen154
+\@@paperwidth=\dimen155
+\@@topmargin=\dimen156
+LaTeX Info: Redefining \underline on input line 237.
+LaTeX Info: Redefining \AtBeginDvi on input line 243.
+) (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/patches/lltjp-geometry.sty
+Package: lltjp-geometry 2020/02/25 Patch to geometry for LuaTeX-ja with vertical writing mode
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-05-15 L3 programming layer (loader) 
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-05-05 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count179
+\l__pdf_internal_box=\box66
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)))
+\ltj@temp@cctb=\catcodetable7
+) (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/luatexja-compat.sty
+Package: luatexja-compat 2018/03/29 Compatibility with pTeX
+(load cache: /Users/edwardchen/Library/texlive/2020/texmf-var/luatexja/ltj-jisx0208.luc)
+\hour=\count180
+\minute=\count181
+)) (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/addons/luatexja-adjust.sty
+Package: luatexja-adjust 2018/07/24
+\ltjadj@status@le=\count182
+\ltjadj@status@lp=\count183
+\ltjadj@status@pr=\count184
+\ltjadj@status@ls=\count185
+Removing  `ltj.create_dir_whatsit' from `post_linebreak_filter'.
+Removing  `ltj.lineskip' from `post_linebreak_filter'.
+Inserting `Adjust width' at position 1 in `post_linebreak_filter'.
+Inserting `ltj.create_dir_whatsit' at position 2 in `post_linebreak_filter'.
+Inserting `ltj.lineskip' at position 3 in `post_linebreak_filter'.)
+Inserting `luatexja.adjust' at position 1 in `luatexja.adjust_jfmglue'.
+\jlreq@current@linewidth=\dimen157
+\jlreq@rest@linewidth=\dimen158
+\jlreq@lastnodechar=\count186
+\jlreq@fontsize=\dimen159
+\jlreq@jafontsize=\dimen160
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 10.0pt on input line 1069.
+\jlreq@baselineskip=\dimen161
+LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
+(Font)              scaled to size 10.0pt on input line 1146.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 10.0pt on input line 1147.
+\jlreq@omotekeiwidth=\dimen162
+\jlreq@chuubusokeiwidth=\dimen163
+\jlreq@urakeiwidth=\dimen164
+\jlreq@footnoteindent=\dimen165
+\jlreq@sidenote@length=\dimen166
+\jlreq@sidenote@sep=\dimen167
+LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
+(Font)              scaled to size 8.00003pt on input line 1260.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 8.00003pt on input line 1260.
+\jlreq@BlockHeading@start@label@box=\box67
+\jlreq@BlockHeading@spaces@current@count=\count187
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\jlreq@endnote@prepostspace=\dimen168
+\jlreq@endnote@indent=\dimen169
+\jlreq@PageStyle@box=\box68
+\abovecaptionskip=\skip51
+\belowcaptionskip=\skip52
+\c@figure=\count194
+\c@table=\count195
+\jlreq@abstractbox=\box69
+\toclineskip=\skip53
+\@lnumwidth=\dimen170
+\jlreq@top@contents=\count196
+\bibindent=\dimen171
+LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 5777.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 5777.
+) (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec.sty
+Package: luatexja-fontspec 2020-04-01 fontspec support of LuaTeX-ja
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-05-15 LaTeX2e option processing using LaTeX3 keys
+)
+LaTeX Font Info:    Font shape `JT3/mc/m/n' will be
+(Font)              scaled to size 16.0pt on input line 16.
+LaTeX Font Info:    Font shape `JY3/mc/m/n' will be
+(Font)              scaled to size 16.0pt on input line 16.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-05-15 L3 Experimental document command parser
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex
+\l__xparse_current_arg_int=\count197
+\g__xparse_grabber_int=\count198
+\l__xparse_m_args_int=\count199
+\l__xparse_v_nesting_int=\count266
+))
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+Lua module: fontspec 2020/02/21 2.7i Font selection for XeLaTeX and LuaLaTeX (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-luatex.sty
+Package: fontspec-luatex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count267
+\l__fontspec_language_int=\count268
+\l__fontspec_strnum_int=\count269
+\l__fontspec_tmp_int=\count270
+\l__fontspec_tmpa_int=\count271
+\l__fontspec_tmpb_int=\count272
+\l__fontspec_tmpc_int=\count273
+\l__fontspec_em_int=\count274
+\l__fontspec_emdef_int=\count275
+\l__fontspec_strong_int=\count276
+\l__fontspec_strongdef_int=\count277
+\l__fontspec_tmpa_dim=\dimen172
+\l__fontspec_tmpb_dim=\dimen173
+\l__fontspec_tmpc_dim=\dimen174
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Font Info:    Font shape `JT3/mc/b/n' in size <10> not available
+(Font)              Font shape `JT3/gt/m/n' tried instead on input line 3955.
+LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
+(Font)              scaled to size 10.0pt on input line 3955.
+LaTeX Font Info:    Font shape `JY3/mc/b/n' in size <10> not available
+(Font)              Font shape `JY3/gt/m/n' tried instead on input line 3955.
+LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
+(Font)              scaled to size 10.0pt on input line 3955.
+)) (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/patches/lltjp-fontspec.sty) (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/addons/luatexja-fontspec-27c.sty
+Package: luatexja-fontspec-27c 2020-04-04 fontspec support of LuaTeX-ja
+\g__ltj_fontspec_altnumber_int=\count278
+))
+luaotfload | cache : Lookup cache loaded from /Users/edwardchen/Library/texlive/2020/texmf-var/luatex-cache/generic-dev/names/luaotfload-lookup-cache.luc.
+luaotfload | aux : font no 39 (nil) defines no feature for script hani
+
+Package fontspec Warning: Font "I.Ming" does not contain requested Script
+(fontspec)                "CJK".
+
+
+Package fontspec Info: Could not resolve font "Fangsong/B" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "I.Ming/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "I.Ming/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'I.Ming(0)' created for font 'I.Ming' with
+(fontspec)             options
+(fontspec)             [YokoFeatures={JFM=jlreq},TateFeatures={JFM=jlreqv},Scale=1,Kerning=Off,Script=CJK,ItalicFont={Fangsong}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+
+LaTeX Font Info:    Redeclaring symbol font `mincho' on input line 8.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `normal'
+(Font)                  JY3/mc/m/n --> JY3/I.Ming(0)/m/n on input line 8.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY3/gt/m/n --> JY3/I.Ming(0)/m/n on input line 8.
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY3/I.Ming(0)/m/n --> JY3/I.Ming(0)/b/n on input line 8.
+LaTeX Font Info:    Font shape `JT3/I.Ming(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 8.
+luaotfload | aux : font no 44 (nil) does not define feature vrt2 for script latn with language dflt
+LaTeX Font Info:    Font shape `JY3/I.Ming(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 8.
+
+Package fontspec Info: Could not resolve font "I.Ming/BI" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "I.Ming/B" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Could not resolve font "I.Ming/I" (it probably doesn't
+(fontspec)             exist).
+
+luaotfload | aux : font no 42 (nil) does not define feature smcp for script latn with language dflt
+
+Package fontspec Info: Font family 'I.Ming(1)' created for font 'I.Ming' with
+(fontspec)             options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"I.Ming:mode=node;script=latn;language=dflt;+tlig;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+
+Package fontspec Info: Could not resolve font "GlowSansTC-Compressed-Light/BI"
+(fontspec)             (it probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "GlowSansTC-Compressed-Light/B"
+(fontspec)             (it probably doesn't exist).
+
+
+Package fontspec Info: Could not resolve font "GlowSansTC-Compressed-Light/I"
+(fontspec)             (it probably doesn't exist).
+
+
+Package fontspec Info: Font family 'GlowSansTC-Compressed-Light(0)' created
+(fontspec)             for font 'GlowSansTC-Compressed-Light' with options
+(fontspec)             [YokoFeatures={JFM=jlreq},TateFeatures={JFM=jlreqv},Scale=1,Kerning=Off,Script=CJK].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+
+LaTeX Font Info:    Redeclaring math alphabet \mathgt on input line 10.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `normal'
+(Font)                  JY3/gt/m/n --> JY3/GlowSansTC-Compressed-Light(0)/m/n on input line 10.
+LaTeX Font Info:    Overwriting math alphabet `\mathgt' in version `bold'
+(Font)                  JY3/gt/m/n --> JY3/GlowSansTC-Compressed-Light(0)/m/n on input line 10.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks25
+\MT@count=\count279
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen175
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count280
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype-luatex.def
+File: microtype-luatex.def 2019/11/18 v2.7d Definitions specific to luatex (RS)
+Module microtype Info: overwriting function `keepligature' on input line 59
+LaTeX Info: Redefining \lsstyle on input line 695.
+LaTeX Info: Redefining \lslig on input line 695.
+\MT@outer@space=\skip54
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+
+
+Package microtype Warning: Could not parse font size `\jlreq@fontsize '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `.8\jlreq@fontsize '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `.9\jlreq@fontsize '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `\dimexpr 12\jlreq@fontsize /10\relax '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `\jlreq@fontsize '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `.8\jlreq@fontsize '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `.9\jlreq@fontsize '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `\dimexpr 12\jlreq@fontsize /10\relax '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `\jlreq@fontsize '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `.8\jlreq@fontsize '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `.9\jlreq@fontsize '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `\dimexpr 12\jlreq@fontsize /10\relax '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `\jlreq@fontsize '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `.8\jlreq@fontsize '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `.9\jlreq@fontsize '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `\dimexpr 12\jlreq@fontsize /10\relax '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `\jlreq@fontsize '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `.8\jlreq@fontsize '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `.9\jlreq@fontsize '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `\dimexpr 12\jlreq@fontsize /10\relax '
+(microtype)                in font set `basicmath' on input line 74.
+
+
+Package microtype Warning: Could not parse font size `\jlreq@fontsize '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `.8\jlreq@fontsize '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `.9\jlreq@fontsize '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `\dimexpr 12\jlreq@fontsize /10\relax '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `\jlreq@fontsize '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `.8\jlreq@fontsize '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `.9\jlreq@fontsize '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `\dimexpr 12\jlreq@fontsize /10\relax '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `\jlreq@fontsize '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `.8\jlreq@fontsize '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `.9\jlreq@fontsize '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `\dimexpr 12\jlreq@fontsize /10\relax '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `\jlreq@fontsize '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `.8\jlreq@fontsize '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `.9\jlreq@fontsize '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `\dimexpr 12\jlreq@fontsize /10\relax '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `\jlreq@fontsize '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `.8\jlreq@fontsize '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `.9\jlreq@fontsize '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `\dimexpr 12\jlreq@fontsize /10\relax '
+(microtype)                in font set `basictext' on input line 81.
+
+
+Package microtype Warning: Could not parse font size `.9\jlreq@fontsize '
+(microtype)                in font set `footnotesize' on input line 91.
+
+
+Package microtype Warning: Could not parse font size `.9\jlreq@fontsize '
+(microtype)                in font set `footnotesize' on input line 91.
+
+
+Package microtype Warning: Could not parse font size `.9\jlreq@fontsize '
+(microtype)                in font set `footnotesize' on input line 91.
+
+
+Package microtype Warning: Could not parse font size `.9\jlreq@fontsize '
+(microtype)                in font set `footnotesize' on input line 91.
+
+
+Package microtype Warning: Could not parse font size `.9\jlreq@fontsize '
+(microtype)                in font set `footnotesize' on input line 91.
+
+
+Package microtype Warning: Could not parse font size `.8\jlreq@fontsize '
+(microtype)                in font set `scriptsize' on input line 96.
+
+
+Package microtype Warning: Could not parse font size `.8\jlreq@fontsize '
+(microtype)                in font set `scriptsize' on input line 96.
+
+
+Package microtype Warning: Could not parse font size `.8\jlreq@fontsize '
+(microtype)                in font set `scriptsize' on input line 96.
+
+
+Package microtype Warning: Could not parse font size `.8\jlreq@fontsize '
+(microtype)                in font set `scriptsize' on input line 96.
+
+
+Package microtype Warning: Could not parse font size `.8\jlreq@fontsize '
+(microtype)                in font set `scriptsize' on input line 96.
+
+
+Package microtype Warning: Could not parse font size `\jlreq@fontsize '
+(microtype)                in font set `normalfont' on input line 99.
+
+
+Package microtype Warning: Could not parse font size `\jlreq@fontsize '
+(microtype)                in font set `normalfont' on input line 99.
+
+
+Package microtype Warning: Could not parse font size `\jlreq@fontsize '
+(microtype)                in font set `normalfont' on input line 99.
+
+
+Package microtype Warning: Could not parse font size `\jlreq@fontsize '
+(microtype)                in font set `normalfont' on input line 99.
+
+
+Package microtype Warning: Could not parse font size `\jlreq@fontsize '
+(microtype)                in font set `normalfont' on input line 99.
+
+)) (/usr/local/texlive/2020/texmf-dist/tex/luatex/luatexja/patches/lltjp-microtype.sty
+
+Package luatexja Warning: LuaTeX-ja's patch against the microtype package 
+(luatexja)                (lltjp-microtype.sty, 2019-11-08) may not work.
+
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count281
+\Gm@cntv=\count282
+\c@Gm@tempcnt=\count283
+\Gm@bindingoffset=\dimen176
+\Gm@wd@mp=\dimen177
+\Gm@odd@mp=\dimen178
+\Gm@even@mp=\dimen179
+\Gm@layoutwidth=\dimen180
+\Gm@layoutheight=\dimen181
+\Gm@layouthoffset=\dimen182
+\Gm@layoutvoffset=\dimen183
+\Gm@dimlist=\toks26
+) (./saeku.aux)
+\openout1 = saeku.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    Trying loading font information for TS1+cmr on input line 18.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for JY3/mc/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for JT3/mc/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 18.
+ 《縦組モード》
+LaTeX Info: Redefining \microtypecontext on input line 18.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 18.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `I.Ming' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotedblbase ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: luatex
+*geometry* verbose mode - [ preamble ] result:
+* driver: luatex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(87.52342pt, 670.0pt, 87.52342pt)
+* v-part:(T,H,B)=(47.00314pt, 480.0pt, 70.50473pt)
+* \paperwidth=845.04684pt
+* \paperheight=597.50787pt
+* \textwidth=480.0pt
+* \textheight=670.0pt
+* \oddsidemargin=15.25343pt
+* \evensidemargin=15.25343pt
+* \topmargin=-45.26685pt
+* \headheight=10.0pt
+* \headsep=10.0pt
+* \topskip=10.0pt
+* \footskip=20.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=20.0pt
+* \skip\footins=7.0pt plus 10.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(./text.tex
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/n/25'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotedblbase ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/n/25'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/n/25'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/n/25'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `JT3/I.Ming(0)/m/n' will be
+(Font)              scaled to size 25.0pt on input line 4.
+luaotfload | aux : font no 51 (nil) does not define feature vrt2 for script latn with language dflt
+LaTeX Font Info:    Font shape `JY3/I.Ming(0)/m/n' will be
+(Font)              scaled to size 25.0pt on input line 4.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/n/14'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotedblbase ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/n/14'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/n/14'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/n/14'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `JT3/I.Ming(0)/m/n' will be
+(Font)              scaled to size 14.0pt on input line 8.
+luaotfload | aux : font no 53 (nil) does not define feature vrt2 for script latn with language dflt
+LaTeX Font Info:    Font shape `JY3/I.Ming(0)/m/n' will be
+(Font)              scaled to size 14.0pt on input line 8.
+LaTeX Font Info:    Font shape `JY3/I.Ming(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 18.
+LaTeX Font Info:    Font shape `JT3/I.Ming(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 18.
+ [1
+
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmss' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `JT3/GlowSansTC-Compressed-Light(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 21.
+luaotfload | aux : font no 56 (nil) does not define feature vrt2 for script hani with language dflt
+LaTeX Font Info:    Font shape `JY3/GlowSansTC-Compressed-Light(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 21.
+LaTeX Font Info:    Font shape `JT3/GlowSansTC-Compressed-Light(0)/m/n' will be
+(Font)              scaled to size 14.0pt on input line 21.
+luaotfload | aux : font no 58 (nil) does not define feature vrt2 for script hani with language dflt
+LaTeX Font Info:    Font shape `JY3/GlowSansTC-Compressed-Light(0)/m/n' will be
+(Font)              scaled to size 14.0pt on input line 21.
+
+
+LaTeX Font Warning: Font shape `TU/I.Ming(1)/m/it' undefined
+(Font)              using `TU/I.Ming(1)/m/n' instead on input line 25.
+
+LaTeX Font Info:    Font shape `JT3/I.Ming(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 25.
+luaotfload | aux : font no 59 (nil) does not define feature vrt2 for script latn with language dflt
+luaotfload | aux : font no 59 (nil) does not define feature vert for script latn with language dflt
+luaotfload | aux : font no 59 (nil) does not define feature vrt2 for script latn with language dflt
+LaTeX Font Info:    Font shape `JY3/I.Ming(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 25.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/it/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotedblbase ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/it/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/it/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/it/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotesinglbase ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/n/8.99994'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `quotedblbase ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/n/8.99994'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglleft ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/n/8.99994'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `guilsinglright ' is missing
+(microtype)             in font `TU/I.Ming(1)/m/n/8.99994'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `JT3/I.Ming(0)/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 70.
+LaTeX Font Info:    Font shape `JY3/I.Ming(0)/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 70.
+[1
+
+] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25
+Missing character: There is no 窎 (U+7A8E) in font I.Ming:mode=node;script=latn;language=dflt;-kern;jfm=jlreqv!
+]) [26] [27
+
+] (./saeku.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+)
+
+Here is how much of LuaTeX's memory you used:
+ 8608 strings out of 480883
+ 477514,662416 words of node,token memory allocated
+ 40663 words of node memory still in use:
+   9 hlist, 1 vlist, 4 rule, 2 glue, 5 kern, 8 penalty, 2 glyph, 6178 attribute, 5066 glue_spec, 466 attribute_list, 1 write, 441 user_defined, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
+   avail lists: 1:31,2:107688,3:14885,4:314,5:9242,6:149,7:8838,9:4534,10:26,11:1
+ 25955 multiletter control sequences out of 65536+600000
+ 61 fonts using 196936043 bytes
+ 74i,5n,82p,5117b,304s stack positions out of 5000i,500n,10000p,200000b,100000s
+</Applications/Microsoft Excel.app/Contents/Resources/DFonts/Fangsong.ttf></Users/edwardchen/Library/Fonts/GlowSansTC-Compressed-Light.otf></Users/edwardchen/Library/Fonts/I.Ming-All-6.121.ttc>
+Output written on saeku.pdf (28 pages, 1571082 bytes).
+
+PDF statistics: 113 PDF objects out of 1000 (max. 8388607)
+ 73 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+
