@@ -6,7 +6,7 @@ Please go to <https://github.com/welai/glow-sans/releases> and <https://github.c
 
 ## Preview
 
-![Preview](https://cdn.jsdelivr.net/gh/edward-martyr/syyon-vencie@5fbae83/saeku_preview.png)
+![Preview](/saeku_preview.png)
 
 ## Compilation
 
